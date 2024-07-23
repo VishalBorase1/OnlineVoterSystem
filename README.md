@@ -1,4 +1,4 @@
-# TWSIP_OnlineVoterSystem
+# OnlineVoterSystem
 
 # Overview
 the online voting system project in
